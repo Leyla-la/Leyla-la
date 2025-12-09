@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" alt="Studio Ghibli gif" width="320" />
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" alt="just a cute cat gif" width="320" />
 </div>
 
 <h3 align="center">A passionate software developer from Vietnam (tu noi dong xanh thom huong lua 🌾)</h3>
@@ -82,7 +82,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyb2ZqOTNodGRwMmdvajNwZ2N2cWlueGh5MjNmZ2RyNjNoazVmaXExbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GRk3GLfzduq1NtfGt5/giphy.gif" alt="another cute cat gif" width="320" />
+  <img src="https://i.makeagif.com/media/8-19-2025/WTXBM0.gif" alt="another cute cat gif" width="320" />
 </div>
 
 <br/>
