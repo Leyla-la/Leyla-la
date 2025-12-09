@@ -49,13 +49,13 @@
 <hr/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" alt="just a cute cat gif" width="320" />
+  <img src="https://giffiles.alphacoders.com/103/103312.gif" alt="howl's gif" width="320" />
 </div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Leyla-la/Leyla-la/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions aaaaaaaa" src="https://raw.githubusercontent.com/Leyla-la/Leyla-la/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -82,7 +82,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://i.makeagif.com/media/8-19-2025/WTXBM0.gif" alt="another cute cat gif" width="320" />
+  <img src="https://images.steamusercontent.com/ugc/93850193080835068/A72B944661C21676C4E977628AA57597FA69014F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="another cute cat gif" width="320" />
 </div>
 
 <br/>
